@@ -2,7 +2,7 @@
  #include"function.h"
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   //serial speed
   WiFi.mode(WIFI_STA);
   //WiFi.disconnect();
