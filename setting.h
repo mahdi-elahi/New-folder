@@ -1,4 +1,4 @@
- String Version = "V2.3.7";
+ String Version = "V2.4.7";
 
 #include <ESP8266WiFi.h>
 #include <espnow.h>
