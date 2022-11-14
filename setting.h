@@ -1,11 +1,11 @@
- String Version = "V2.3.5";
+ String Version = "V2.3.6";
 
 #include <ESP8266WiFi.h>
 #include <espnow.h>
 //libs
 #define relay 5
 #define buzzer 4
-#define green 13
+#define green 14
 #define red 13
 #define blue 14
 //const
